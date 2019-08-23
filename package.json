@@ -21,7 +21,7 @@
     "index.mjs",
     "index.js"
   ],
-  "description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+  "description": "Sveltev3 switch component",
   "version": "1.0.0",
   "dependencies": {},
   "repository": {
@@ -29,7 +29,7 @@
     "url": "git+https://github.com/mbeineris/svelte-switch.git"
   },
   "author": "Marius Beineris",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mbeineris/svelte-switch/issues"
   },
