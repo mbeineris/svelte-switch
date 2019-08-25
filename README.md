@@ -4,7 +4,7 @@ A simple switch component for sveltev3. Example can be found [here](https://svel
 
 ### Installing
 
-`npm i -D svelte-switch`
+`npm i -D @mbeineris/svelte-switch`
 
 ### Usage
 
