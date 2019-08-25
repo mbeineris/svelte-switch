@@ -1,5 +1,5 @@
 {
-  "name": "svelte-switch",
+  "name": "@mabe/svelte-switch",
   "svelte": "src/index.svelte",
   "module": "index.mjs",
   "main": "index.js",
